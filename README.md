@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
 |  |
 | ------- |
