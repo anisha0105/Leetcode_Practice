@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
