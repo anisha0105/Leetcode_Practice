@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
