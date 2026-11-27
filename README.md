@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -194,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 ## Combinatorics
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -303,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
